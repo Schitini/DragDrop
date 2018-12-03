@@ -59,7 +59,7 @@
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:layout_marginBottom="173dp"
-        android:background="@android:color/holo_orange_light"
+        android:background="@android:color/black"
         android:text="PARABÉNS"
         android:textColor="@android:color/holo_red_dark"
         android:textSize="40dp" />
@@ -72,7 +72,7 @@
         android:layout_alignParentBottom="true"
         android:layout_marginBottom="129dp"
         android:layout_toStartOf="@+id/adsdc"
-        android:background="@android:color/holo_orange_light"
+        android:background="@android:color/black"
         android:text="VOCÊ"
         android:textColor="?attr/actionModeSplitBackground"
         android:textSize="24sp" />
@@ -83,7 +83,7 @@
         android:layout_height="wrap_content"
         android:layout_alignEnd="@+id/aloqwqq"
         android:layout_alignTop="@+id/textViewewew"
-        android:background="@android:color/holo_orange_light"
+        android:background="@android:color/black"
         android:text="GANHOU"
         android:textColor="@android:color/holo_green_dark"
         android:textSize="24sp" />
